@@ -12,7 +12,7 @@
 
  
 
-Họ và tên:  Nguyễn Văn
+Họ và tên:  Nguyễn Văn Tuyến
 
 Mã số sinh viên: K235480106077
  
