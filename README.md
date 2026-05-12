@@ -136,21 +136,12 @@ tài sản
 
 TẠO database
 
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/a91c8ab4-acf7-4873-9a21-a7bfb798c837"
-
-/>
+<img width="1568" height="820" alt="Screenshot 2026-05-12 214247" src="https://github.com/user-attachments/assets/20f4b6de-0a5c-4958-98fc-409caaa32a38" />
 
  
-
- 
-
 ## Tạo bảng dữ liệu
 
- 
+ <img width="1564" height="838" alt="Screenshot 2026-05-12 220624" src="https://github.com/user-attachments/assets/446dd5f1-6756-4e51-bf0c-6f87732431de" />
 
 Hệ thống sử dụng các bảng:
 
@@ -163,32 +154,12 @@ Hệ thống sử dụng các bảng:
 - ThanhToan
 
 - HopDong_TaiSan
-
- 
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/b837a0a8-db1c-4fef-86b9-5259218bf5b2"
-
-/>
-
- 
-
- 
+<img width="1567" height="807" alt="Screenshot 2026-05-12 220946" src="https://github.com/user-attachments/assets/e054acd6-9692-43b5-876b-3ebbf2b92b77" />
 
 tạo dữ liệu
 
-<img width="1918" height="1078"
+<img width="1203" height="775" alt="Screenshot 2026-05-12 221059" src="https://github.com/user-attachments/assets/8b747af9-0ac3-4f56-aef7-c84d4c7f6264" />
 
-alt="image"
-
-src="https://github.com/user-attachments/assets/9ce101d1-d09d-4f25-920d-f62f1a90d20e"
-
-/>
-
- 
 
  
 
@@ -214,19 +185,6 @@ Bảng dùng để lưu thông tin khách hàng.
 
 | Address | Địa chỉ |
 
- 
-<img width="1568" height="820" alt="Screenshot 2026-05-12 214247" src="https://github.com/user-attachments/assets/300810b7-a939-482b-b243-8932ffc0fbb4" />
-
- 
-
- 
-
-
-
-
- 
-
- 
 
 ---
 
@@ -258,21 +216,10 @@ Bảng quản lý hợp đồng vay tiền.
 
 | Status | Trạng thái |
 
- 
+ <img width="1196" height="763" alt="Screenshot 2026-05-12 221206" src="https://github.com/user-attachments/assets/3a6fc841-e9bc-4ec8-94d2-460c73eb9b72" />
 
-<img width="1918" height="1078"
 
-alt="image"
 
-src="https://github.com/user-attachments/assets/ed7b8ccc-eef3-4d8a-8e7b-fccfef46748e"
-
-/>
-
- 
-
- 
-
- 
 
 ---
 
@@ -300,23 +247,8 @@ Bảng quản lý tài sản cầm cố.
 
 | IsSold | Đã thanh lý |
 
- 
+<img width="1581" height="825" alt="Screenshot 2026-05-12 221444" src="https://github.com/user-attachments/assets/f6011723-cf25-4565-bfa8-e3fdfdd6f8da" />
 
- 
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/06944b6c-331e-4f7e-a13b-214d2aebf1a1"
-
-/>
-
- 
-
- 
-
- 
 
 ---
 
@@ -348,17 +280,8 @@ HopDong 1 --- N ThanhToan
 
 HopDong N --- N TaiSan 
 
- 
+<img width="1196" height="828" alt="Screenshot 2026-05-12 221326" src="https://github.com/user-attachments/assets/7d797317-db5f-44bb-b588-230a94d19386" />
 
-<img width="1908" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/d0ca19ce-7de7-444a-872f-d8707e71e029"
-
-/>
-
- 
 
 ---
 
@@ -489,28 +412,9 @@ Hệ thống sử dụng Function:
 để tự động tính tổng công nợ của khách hàng.
 
 Sau Deadline1 hệ thống chuyển sang lãi kép.
-
- 
-
- 
-
-<img width="1918" height="1077"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/7a361c00-29c5-4a23-9103-67bd79da8850"
-
-/>
-
- 
-
- 
-
- 
+<img width="969" height="739" alt="Screenshot 2026-05-12 221636" src="https://github.com/user-attachments/assets/fca5ec51-423c-435d-9a0f-ed229b59e853" />
 
 ---
-
- 
 
 # 6. Event tạo hợp đồng
 
@@ -531,18 +435,9 @@ Procedure dùng để:
 - thêm tài sản
 
 - liên kết tài sản với hợp đồng
-
+<img width="1562" height="864" alt="Screenshot 2026-05-12 221754" src="https://github.com/user-attachments/assets/77e9fdde-0b6c-4272-abcb-376f43d1f2a5" />
  
 
-<img width="1918" height="1075"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/e144c4c6-8910-42fd-8223-257efc8a1c9b"
-
-/>
-
- 
 
 ---
 
@@ -579,18 +474,8 @@ Nếu trả hết:
 Nếu chưa trả hết:
 
 - cập nhật trạng thái “Đang trả góp”
+<img width="1556" height="840" alt="Screenshot 2026-05-12 221843" src="https://github.com/user-attachments/assets/52a01945-c5f5-4cc5-8f18-31025d084dbb" />
 
- 
-
- 
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/1b43e222-8fd2-45eb-b75b-3215c2a5d3cf"
-
-/>
 
 *Hình ảnh minh họa quá trình thực thi procedure sp_Payment để
 
@@ -605,16 +490,7 @@ Hệ thống thực hiện:
 - ghi nhận số tiền khách thanh toán
 
 - cập nhật dư nợ còn lại
-
- 
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/f4fca3a4-dc53-4835-adc8-eb966cf25fd6"
-
-/>
+<img width="1554" height="832" alt="Screenshot 2026-05-12 221934" src="https://github.com/user-attachments/assets/6adf5719-24f0-493b-841c-53a6d4c1e4e3" />
 
 *Hình ảnh minh họa dữ liệu lịch sử thanh toán của khách hàng
 
@@ -634,13 +510,8 @@ Hệ thống lưu:
 
  
 
-<img width="1918" height="1078"
+<img width="1556" height="827" alt="Screenshot 2026-05-12 222201" src="https://github.com/user-attachments/assets/552dd7b4-f8f4-428a-9596-5526c7fd6e6d" />
 
-alt="image"
-
-src="https://github.com/user-attachments/assets/9fb7fcf8-bb6f-437d-b0cb-98cfc4fcc285"
-
-/>
 
 *Hình ảnh minh họa quá trình cập nhật dư nợ và trạng thái hợp
 
@@ -718,25 +589,8 @@ theo dõi khách hàng nợ xấu
 
 hỗ trợ thanh lý tài sản khi cần thiết
 
- 
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/5f7e1320-28ee-4ad6-a865-6b4045786ac9"
-
-/>
-
 *Ghi chú : TẠO TRIGGER*
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/3249bb0c-e36e-412f-a6f9-64641940c474"
-
-/>
+<img width="1562" height="827" alt="Screenshot 2026-05-12 222303" src="https://github.com/user-attachments/assets/ae8cda00-36b8-4194-94cc-ccc3c3d88911" />
 
 *Hình ảnh minh họa quá trình cập nhật thời hạn thanh toán của
 
@@ -751,28 +605,16 @@ Hệ thống sẽ kiểm tra:
 - trạng thái hợp đồng
 
 - điều kiện quá hạn
+<img width="1194" height="830" alt="Screenshot 2026-05-12 222353" src="https://github.com/user-attachments/assets/e4783be1-e541-41d8-bb66-fd8f580ad1ef" />
 
- 
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/a363ac0d-a131-4107-845d-c069cf494d95"
-
-/>
 
 *Hình ảnh minh họa kết quả sau khi trigger TRG_QuaHan được
 
 kích hoạt.*
 
- 
-
 Khi hợp đồng vượt quá thời hạn thanh toán:
 
 - trạng thái hợp đồng sẽ tự động chuyển thành “Quá hạn”
-
- 
 
 Điều này giúp hệ thống tự động quản lý các hợp đồng nợ xấu
 
@@ -780,11 +622,7 @@ hiệu quả hơn.
 
 ---
 
- 
-
 # 9. Query nợ xấu
-
- 
 
 Query được sử dụng để hiển thị danh sách khách hàng đang có
 
@@ -828,13 +666,7 @@ hỗ trợ xử lý thanh toán và thanh lý tài sản
 
  
 
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/ca94b576-11de-45be-b7d1-eca80144ab81"
-
-/>
+<img width="1198" height="831" alt="Screenshot 2026-05-12 222524" src="https://github.com/user-attachments/assets/003aabdb-a18a-489c-bb8e-b90c669787c7" />
 
 *Hình ảnh minh họa kết quả truy vấn danh sách khách hàng có
 
@@ -862,36 +694,18 @@ Tự động chuyển:
 - Đã thanh lý
 
 → Đã bán thanh lý
+<img width="922" height="627" alt="Screenshot 2026-05-12 222647" src="https://github.com/user-attachments/assets/6372fc9a-f781-421d-8cab-8b3048739f7d" />
 
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/0f91dfbb-e85c-4b17-9438-f82bd28c6216"
-
-/>
-
-<img width="1918" height="1078"
-
-alt="image"
-
-src="https://github.com/user-attachments/assets/c6429402-afba-4d22-8ebe-85d95c834413"
-
-/>
 
 Hình ảnh minh họa kết quả sau khi trigger TRG_QuaHan được
 
 kích hoạt.
-
- 
 
 Khi hợp đồng vượt quá thời hạn thanh toán:
 
 - trạng thái hợp đồng sẽ tự động chuyển từ “Đang vay” sang
 
 “Quá hạn”
-
- 
 
 Điều này giúp hệ thống quản lý các hợp đồng nợ xấu hiệu quả
 
